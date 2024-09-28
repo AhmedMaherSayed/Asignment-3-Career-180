@@ -21,7 +21,7 @@ namespace Asignment_3
         public static void AddMovie(Movie movie)
             => Movies.Add(movie);
         
-        public static void AddMovie(Employee employee)
+        public static void AddEmployee(Employee employee)
             => Employees.Add(employee);
 
         public static void RemoveEmployee(Employee employee)
